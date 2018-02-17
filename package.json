@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "docxtemplater": "^3.4.1",
+    "jszip": "^2.6.1",
     "node-xlsx": "^0.11.2",
     "xlsx": "^0.12.1"
   }
